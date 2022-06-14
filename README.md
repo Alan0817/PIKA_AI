@@ -1,5 +1,5 @@
 # PIKA_AI
 
 ## Env
-OpenAI Gym from [here](https://raw.githubusercontent.com/MrHoseongLee/gym-pikachu-volleyball/master/README.md)
+OpenAI gym from [here](https://github.com/MrHoseongLee/gym-pikachu-volleyball)
 
