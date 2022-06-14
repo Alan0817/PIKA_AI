@@ -24,3 +24,6 @@ python dqn.py
 
 ## Results
 Demo
+[Q-learning](https://www.youtube.com/watch?v=N85g0FQ2rBA)
+[DQN](https://www.youtube.com/watch?v=bxmE8tvo4OY)
+[DQN_IMP](https://www.youtube.com/watch?v=conTBYOtQHs)
